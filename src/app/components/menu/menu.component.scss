@@ -1,0 +1,24 @@
+.navbar{
+  background-color: #2f2e2e;
+}
+
+.navbar-expand-lg .navbar-collapse{
+  justify-content: end;
+  padding: 10px
+}
+
+.nav-link{
+  color: #FFFF;
+  font-weight: 600;
+}
+
+.show-cart-book{
+  padding: 10px;
+  color: #2f2e2e;
+  font-weight: 600;
+  font-size: 12px;
+  img{
+    width: 100px;
+    height: 150px;
+  }
+}
